@@ -50,7 +50,9 @@ This section provides a walkthrough of the Travel Guru AI system using selected 
 
 🔹 **Setting up TravelGuru**  
 
-<img width="978" height="576" alt="SETUP" src="https://github.com/user-attachments/assets/4e6388b4-8581-4b29-9869-01852b6ef0cc" />
+<img width="948" height="437" alt="BUILD_SETUP" src="https://github.com/user-attachments/assets/458f081c-c8a6-46df-b54d-9f169d9e3fdd" />
+
+
 
 Shows the initial configuration steps for setting up the Travel Guru assistant.
 
