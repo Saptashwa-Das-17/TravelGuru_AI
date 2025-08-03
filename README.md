@@ -108,9 +108,10 @@ Includes visual references for API endpoints and how they're integrated with the
 
 🔹 **ResourceList** 
 
-<img width="692" height="822" alt="RESOURSE_LIST" src="https://github.com/user-attachments/assets/7d54d76e-1b6c-4e6a-9e7e-68f37d42571e" />
+<img width="1902" height="822" alt="Resource" src="https://github.com/user-attachments/assets/f29f3112-1db7-41e6-801c-3d3a34383d03" />
 
 ---
+
 
 ## ☁ IBM Cloud Services Used
 
