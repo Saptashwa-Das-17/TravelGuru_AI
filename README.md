@@ -8,7 +8,7 @@ It provides destination suggestions, builds itineraries, recommends transport an
 ## ✨ Features
 
 1. **Conversational AI** – Assists with trip planning, destination discovery, budgeting, and more  
-2. **Free to Deploy** – Uses IBM Cloud Lite (no paid services needed)  
+2. **Free to Deploy** – Uses IBM Cloud Lite
 3. **Prompt-Engineered Agent** – Configured with a professional, travel-focused system prompt  
 4. **Multi-Channel Ready** – Can be tested via Prompt Lab or deployed as a webchat or API endpoint  
 
