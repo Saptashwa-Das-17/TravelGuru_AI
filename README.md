@@ -117,11 +117,10 @@ Includes visual references for API endpoints and how they're integrated with the
 
 - **watsonx.ai Prompt Lab**  
   - IBM Granite Model  
-  - Watsonx Vector Index *(if used)*  
+  - Watsonx Vector Index 
 - **IBM Cloud Lite Account**  
 - **IBM Cloud IAM**  
-- **IBM Cloud Object Storage** *(if screenshots or prompt storage used)*
-
+- **IBM Cloud Object Storage** 
 ---
 
 ## ⚙ How It Works
