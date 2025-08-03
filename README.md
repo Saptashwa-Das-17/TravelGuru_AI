@@ -19,8 +19,8 @@ It provides destination suggestions, builds itineraries, recommends transport an
 You can interact with TravelGuru via:
 
 - **IBM watsonx.ai Prompt Lab**  
-- **Deployed Web Chat Widget** (if embedded)  
-- **Public/Private Endpoint** (via cURL or Postman)
+- **Deployed Web Chat Widget** 
+- **Public/Private Endpoint**
 
 ---
 
